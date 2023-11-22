@@ -2,31 +2,31 @@ export default function Projects() {
     return (
         <div>
             <section className="resume-section" id="projects">
-                <div className="resume-section-content projects">
+                <div className="resume-section-content projects ml-5">
                     <h2 className="mb-1">Projects</h2>
 
-                    <div className="d-flex row">
+                    <div className="d-flex row mx-auto my-3">
                         <div
                             className="card col-md-3 col-12 mx-2 mb-3"
                             style={{ width: "14rem" }}
                         >
                             <img
                                 className="card-img-top"
-                                src="img/RandomQuotes.png"
-                                alt="Card cap"
+                                src="/todo.png"
+                                alt="todo"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">ToDo List</h5>
                                 <a
-                                    href="https://github.com/Dka888/"
+                                    href="https://github.com/Dka888/todoApp"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888/"
+                                    href="https://dka888.github.io/todoApp/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
@@ -41,21 +41,21 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="img/StoriesFeed.png"
-                                alt="Cardcap"
+                                src="/met.png"
+                                alt="met"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">Landing Page</h5>
                                 <a
                                     href="https://github.com/Dka888/MET"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://dka888.github.io/MET/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
@@ -70,21 +70,21 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="img/IDCardGen.png"
-                                alt="Card cap"
+                                src="/catalog.png"
+                                alt="catalog"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">Phone Catalog</h5>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://github.com/fe-feb20-codewizards/product_catalog"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://fe-feb20-codewizards.github.io/product_catalog/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
@@ -99,21 +99,21 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="img/IDCardGen.png"
-                                alt="Card cap"
+                                src="decathlon.png"
+                                alt="decathlon"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">Decathlon Landing Page</h5>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://github.com/Dka888/decathlon-task"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://dka888.github.io/decathlon-task/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
@@ -130,21 +130,21 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="img/RandomQuotes.png"
-                                alt="Card cap"
+                                src="/store.png"
+                                alt="store"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">Store Online</h5>
                                 <a
-                                    href="https://github.com/Dka888/"
+                                    href="https://github.com/Dka888/store-online"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888/"
+                                    href="https://fullstack-6n85.vercel.app/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
@@ -159,21 +159,21 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="img/StoriesFeed.png"
-                                alt="Cardcap"
+                                src="notes.png"
+                                alt="notes"
                             />
                             <div className="card-body">
                                 <h5 className="card-title">Notes</h5>
                                 <a
-                                    href="https://github.com/Dka888/MET"
+                                    href="https://github.com/Dka888/notes"
                                     target="_blank"
-                                    className="btn btn-primary"
+                                    className="btn btn-primary card-button"
                                     rel="noreferrer"
                                 >
                                     Github
                                 </a>
                                 <a
-                                    href="https://github.com/Dka888"
+                                    href="https://notes-front-seven.vercel.app/"
                                     target="_blank"
                                     className="btn btn-secondary"
                                     rel="noreferrer"
