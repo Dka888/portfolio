@@ -12,7 +12,7 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="/todo.png"
+                                src="todo.png"
                                 alt="todo"
                             />
                             <div className="card-body">
@@ -41,7 +41,7 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="/met.png"
+                                src="met.png"
                                 alt="met"
                             />
                             <div className="card-body">
@@ -70,7 +70,7 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="/catalog.png"
+                                src="catalog.png"
                                 alt="catalog"
                             />
                             <div className="card-body">
@@ -130,7 +130,7 @@ export default function Projects() {
                         >
                             <img
                                 className="card-img-top"
-                                src="/store.png"
+                                src="store.png"
                                 alt="store"
                             />
                             <div className="card-body">

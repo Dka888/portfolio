@@ -7,7 +7,7 @@ export default function Navigation() {
       id="sideNav"
     >
       <div className="figure mt-3" style={{width: '12rem', height: '12rem'}}>
-        <img src="/me.jpg" alt="me" style={{width: '100%'}} className="rounded-circle"/>
+        <img src="me.jpg" alt="me" style={{width: '100%'}} className="rounded-circle"/>
       </div>
       <a className="navbar-brand js-scroll-trigger" href="#page-top">
         <span className="d-block d-lg-none">Dmitrij Kosow</span>
