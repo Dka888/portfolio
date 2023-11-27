@@ -9,6 +9,10 @@ export default function Navigation() {
       <div className="figure mt-3" style={{width: '12rem', height: '12rem'}}>
         <img src="me.jpg" alt="me" style={{width: '100%'}} className="rounded-circle"/>
       </div>
+      <div style={{color: 'white'}}>
+        <p>+48 794 698 119</p>
+        <p>dmitrijkosow@gmail.com</p>
+      </div>
       <a className="navbar-brand js-scroll-trigger" href="#page-top">
         <span className="d-block d-lg-none">Dmitrij Kosow</span>
         <span className="d-none d-lg-block">
