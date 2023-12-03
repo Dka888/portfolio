@@ -123,6 +123,35 @@ export default function Projects() {
                             </div>
                         </div>
 
+                    <div
+                            className="card col-md-3 col-12 mx-2 mb-1"
+                            style={{ width: "14rem" }}
+                        >
+                            <img
+                                className="card-img-top"
+                                src="calculator.png"
+                                alt="store"
+                            />
+                            <div className="card-body">
+                                <h5 className="card-title">Calculator In process...</h5>
+                                <a
+                                    href="https://github.com/Dka888/calculator"
+                                    target="_blank"
+                                    className="btn btn-primary card-button"
+                                    rel="noreferrer"
+                                >
+                                    Github
+                                </a>
+                                <a
+                                    href="https://calculator-nu-cyan.vercel.app/"
+                                    target="_blank"
+                                    className="btn btn-secondary"
+                                    rel="noreferrer"
+                                >
+                                    Demo
+                                </a>
+                            </div>
+                        </div>
 
                         <div
                             className="card col-md-3 col-12 mx-2 mb-1"

@@ -11,7 +11,7 @@ export default function About() {
                     I am a goal-oriented, proactive person with an IT passion.
                     I have extensive experience at Mate Academy as a Full Stack Web Developer.
                     Mate gave me massive knowledge and practical skills in Frontend, the creation of websites, apps, and all inside logistics.
-                    Technologies I am proficient in include Typescript, JavaScript(ES6), React, Redux, HTML5, CSS3, SCSS and Node.js,
+                    Technologies I am proficient in include Typescript, JavaScript(ES6), React, Redux, HTML5, CSS3, SCSS, Tailwind, and Node.js,
                     Express, SQL, Mongo DB, and PostgreSQL. In my previous job, I quickly mastered the profession, and thanks to my critical approach,
                     self-motivation, and discipline, I swiftly progressed to a leadership role and later became a manager.
                     My experiences gave me a lot of patience.
