@@ -28,7 +28,7 @@ export default function Projects() {
                                 <a
                                     href="https://dka888.github.io/todoApp/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -57,7 +57,7 @@ export default function Projects() {
                                 <a
                                     href="https://dka888.github.io/MET/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -86,7 +86,7 @@ export default function Projects() {
                                 <a
                                     href="https://fe-feb20-codewizards.github.io/product_catalog/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -115,7 +115,7 @@ export default function Projects() {
                                 <a
                                     href="https://dka888.github.io/decathlon-task/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -133,7 +133,7 @@ export default function Projects() {
                                 alt="store"
                             />
                             <div className="card-body">
-                                <h5 className="card-title">Calculator In progress...</h5>
+                                <h5 className="card-title">Calculator</h5>
                                 <a
                                     href="https://github.com/Dka888/calculator"
                                     target="_blank"
@@ -145,7 +145,7 @@ export default function Projects() {
                                 <a
                                     href="https://calculator-nu-cyan.vercel.app/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -175,7 +175,7 @@ export default function Projects() {
                                 <a
                                     href="https://fullstack-6n85.vercel.app/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
@@ -204,7 +204,7 @@ export default function Projects() {
                                 <a
                                     href="https://notes-front-seven.vercel.app/"
                                     target="_blank"
-                                    className="btn btn-secondary"
+                                    className="btn btn-secondary card-button"
                                     rel="noreferrer"
                                 >
                                     Demo
