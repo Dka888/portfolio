@@ -1,6 +1,8 @@
 import React from "react";
+import {useState} from "react";
 
 export default function Navigation() {
+  const [mobileMenu, setMobileMenu] = useState(false);
   return (
     <nav
       className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
@@ -31,11 +33,17 @@ export default function Navigation() {
         aria-controls="navbarSupportedContent"
         aria-expanded="false"
         aria-label="Toggle navigation"
+        onClick={() => setMobileMenu(!mobileMenu)}
       >
      <span className="navbar-toggler-icon" />
       </button>
-      <div className="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul className="navbar-nav">
+      <div 
+      className={!mobileMenu && `collapse navbar-collapse`} id="navbarSupportedContent"
+      >
+        <ul 
+        className="navbar-nav"
+        onClick={() => setMobileMenu(false)}
+        >
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#about">
               About

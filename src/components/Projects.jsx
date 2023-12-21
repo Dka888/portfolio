@@ -133,7 +133,7 @@ export default function Projects() {
                                 alt="store"
                             />
                             <div className="card-body">
-                                <h5 className="card-title">Calculator In process...</h5>
+                                <h5 className="card-title">Calculator In progress...</h5>
                                 <a
                                     href="https://github.com/Dka888/calculator"
                                     target="_blank"
